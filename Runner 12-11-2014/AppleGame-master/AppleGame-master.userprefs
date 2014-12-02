@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Runner\Assets\Scripts\playermovement1.cs">
+    <Files>
+      <File FileName="..\Runner\Assets\Scripts\Histogram.cs" Line="18" Column="4" />
+      <File FileName="..\Runner\Assets\Scripts\playermovement1.cs" Line="264" Column="13" />
+      <File FileName="..\Runner\Assets\Scripts\gameov.cs" Line="88" Column="52" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

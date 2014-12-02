@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="I:\Runner Game\Runner\Assets\Scripts\gameov.cs">
+    <Files>
+      <File FileName="I:\Runner Game\Runner\Assets\Scripts\gameov.cs" Line="173" Column="122" />
+      <File FileName="I:\Runner Game\Runner\Assets\Scripts\playermovement1.cs" Line="42" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
